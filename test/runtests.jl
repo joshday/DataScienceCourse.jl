@@ -1,6 +1,3 @@
-using DataScienceCourse
-using Test
-
 path = joinpath(@__DIR__(), "..", "notebooks")
 
 for file in filter(x -> endswith(x, ".ipynb"), readdir(path))
