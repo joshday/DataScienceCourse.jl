@@ -1,6 +1,6 @@
 # DataScienceCourse
 
-This repo contains the materials for the "Primer on Data Science" course on Julia Academy.  Use this as a template for creating your own courses.
+This repo contains the materials for the "Primer on Data Science in Julia" course on Julia Academy.  Use this as a template for creating your own courses.
 
 ## Notes
 
