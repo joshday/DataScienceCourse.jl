@@ -1,3 +1,5 @@
+# "tests" are a sanity check that the code is runnable in each notebook
+
 path = joinpath(@__DIR__(), "..", "notebooks")
 
 for file in filter(x -> endswith(x, ".ipynb"), readdir(path))
